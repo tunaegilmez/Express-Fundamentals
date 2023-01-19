@@ -14,5 +14,9 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tunaegilmez/Express-Fundamentals.git"
   }
 }
